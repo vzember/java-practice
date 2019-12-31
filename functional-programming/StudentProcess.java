@@ -48,7 +48,6 @@ public class StudentProcess {
 		System.out.println("\nStudent names in order by last name then first name:");
 		task6(sList);
 
-		//--------------------------------------------------------------------------------------------------
 		System.out.println("\n\nTask 7:");
 		System.out.println("\nStudents by department:");
 		task7(sList);
